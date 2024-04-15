@@ -10,7 +10,8 @@ Teach Stack and the tools we use &amp; tips &amp; tricks like optima vs code set
 - Hero Icons
 - Next Js
 - React
-- Storyset : illustrations
+- Storset : illustrations
+- Vercel
 
 # VS Code extensions
 
